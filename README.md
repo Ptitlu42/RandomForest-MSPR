@@ -1,6 +1,6 @@
 # Political Orientation Prediction
 
-Random Forest model that predicts political orientation for French presidential elections.
+Random Forest model that predicts political orientation (Second Turn) for French presidential elections.
 
 ## Setup
 
